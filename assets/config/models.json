@@ -1,0 +1,4 @@
+[
+    {"name": "Training Drone", "file": "assets/models/drone.glb", "type": "enemy"},
+    {"name": "Range Marker", "file": "assets/models/marker.glb", "type": "target"}
+]
